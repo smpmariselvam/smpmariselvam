@@ -1,64 +1,30 @@
-# 👋 Hi, I'm Mari Selvam
+<div align="center">
 
-## 💻 Full Stack Web Developer | MERN Stack Developer
+# ✨ MARI SELVAM ✨
 
-I'm passionate about building modern, responsive and
-user-friendly web applications.
+### 💻 FULL STACK WEB DEVELOPER
+### ⚡ MERN STACK • REACT • JAVASCRIPT
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+Modern+Web+Applications;MERN+Stack+Developer;React+%7C+Node.js+%7C+MongoDB;Turning+Ideas+Into+Digital+Experiences" />
 
-## 🚀 About Me
+<br/>
 
-- 💻 Full Stack Web Developer
-- ⚛️ React.js Developer
-- 🌐 MERN Stack Developer
-- 🌱 Currently improving my development skills
-- 🎯 Looking for Full Stack / React Developer opportunities
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header"/>
+
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## 🧑‍💻 ABOUT ME
 
-### Frontend
-HTML • CSS • JavaScript • React.js
-
-### Backend
-Node.js • Express.js
-
-### Database
-MongoDB • MySQL
-
-### Tools
-Git • GitHub • VS Code • Postman
-
----
-
-## 🚀 Featured Projects
-
-### 🏨 Hostel Management System
-MERN Stack based Hostel Management System.
-
-### 🛒 E-Commerce Application
-MERN Stack based E-Commerce Application.
-
-### 🎬 Movie Search Application
-React based Movie Search Application.
-
-### 🍲 Recipe Finder Application
-React based Recipe Finder Application.
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Smpmariselvam&show_icons=true&theme=tokyonight)
-
----
-
-## 📫 Connect With Me
-
-[GitHub](https://github.com/Smpmariselvam)
-
----
-
-### ⭐ Thanks for visiting my profile!
+```javascript
+const mariSelvam = {
+    role: "Full Stack Web Developer",
+    stack: "MERN",
+    frontend: ["HTML", "CSS", "JavaScript", "React"],
+    backend: ["Node.js", "Express.js"],
+    database: ["MongoDB", "MySQL"],
+    tools: ["Git", "GitHub", "VS Code", "Postman"],
+    currentlyLearning: "Advanced Full Stack Development",
+    goal: "Building scalable and user-friendly applications"
+};
